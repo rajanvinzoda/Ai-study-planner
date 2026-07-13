@@ -1,0 +1,6 @@
+{
+  "name": "Smart Study Planner",
+  "description": "Your Personal Study Assistant that automatically parses school or college timetables to generate optimized daily study schedules, task lists, revision plans, and focus sessions.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
