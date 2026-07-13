@@ -12,6 +12,7 @@ View your app in AI Studio: https://ai.studio/apps/001910bb-dbaf-4e2c-bf17-333ee
 
 **Prerequisites:**  Node.js
 
+Updated deployment test
 
 1. Install dependencies:
    `npm install`
